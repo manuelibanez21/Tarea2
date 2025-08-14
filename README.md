@@ -1,4 +1,8 @@
-1\. Código ASCII: historia, funcionamiento y conceptos clave
+Nombres: Manuel Ibáñez Gutiérrez
+	Laura Sofia Cardenas Acosta
+
+&nbsp;	Nicol Daniela Vargas Sanchez
+1. Código ASCII: historia, funcionamiento y conceptos clave
 
 1.1 ¿Qué es ASCII?
 
